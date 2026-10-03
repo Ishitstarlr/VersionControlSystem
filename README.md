@@ -1,5 +1,7 @@
 # MiniGit
+## Demo
 
+[Watch the MiniGit demo](https://drive.google.com/file/d/1IKxCCC7rqsnCT6DzNha3Q3qQNExSCFzu/view?usp=sharing)
 MiniGit is a small educational version-control client written in Python. It
 implements `init`, `add`, and `commit` without invoking the real Git
 executable. It also includes the bonus `log` and `status` commands.
